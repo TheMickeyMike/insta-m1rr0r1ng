@@ -5,7 +5,7 @@ import asyncio
 import aiofiles
 
 
-class InstaDownloader:
+class Downloader:
     def __init__(self, loop):
         self.loop = loop
 
