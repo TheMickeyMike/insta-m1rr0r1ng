@@ -13,6 +13,7 @@ setup(name='insta-mirror',
       description='Instagram Photo Downloader',
       author='TheMickeyMike',
       author_email='macnow@st.amu.edu.pl',
+      url="https://github.com/TheMickeyMike/insta-mirror",
       packages=['insta-mirror'],
       install_requires=reqs
      )
