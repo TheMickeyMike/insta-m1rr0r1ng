@@ -2,10 +2,10 @@
 
 [![Build Status](https://travis-ci.org/TheMickeyMike/insta-mirror.svg?branch=master)](https://travis-ci.org/TheMickeyMike/insta-mirror)
 
-Download all user photos
+Download all targeted user photos
 
 ## Usage
 ```sh
-python3.6 insta
+python insta-mirror/insta_mirror.py target_username --username=your_username --password=your_password
 ```
 
